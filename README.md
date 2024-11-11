@@ -1,4 +1,4 @@
-# Hi there, I'm Marshall 👋
+# Hey, I'm Marshall 👋
 
 I’m a student specializing in computer technology and electronics
 
