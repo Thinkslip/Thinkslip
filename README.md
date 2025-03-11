@@ -15,7 +15,7 @@ I’m a student specializing in computer technology and electronics
 
 ### Current Projects
 - [My First Gatsby Site](https://github.com/MarshallM77/my-first-gatsby-site) - Blog post site with a Recipe/Article API connection
-- [Tic-Tac-Toe Client-Server Game](https://github.com/MarshallM77/TicTacToe-ServerClient.git) - Tic-Tac-Toe game played between 2 clients while waiting players are managed in a queue
+- [Tic-Tac-Toe Client-Server Game](https://github.com/MarshallM77/TicTacToe-ServerClient.git) - Tic-Tac-Toe game created using socket programming
 
 ### Connect with Me
 [LinkedIn](https://www.linkedin.com/in/marshall-maguire/)
