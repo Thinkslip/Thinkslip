@@ -14,7 +14,6 @@ I’m a computer science student with particular interest in both computer techn
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkslip&show_icons=true&theme=radical)
 
 ### Current Projects
-- [My First Gatsby Site](https://github.com/Thinkslip/my-first-gatsby-site) - Blog post site with a Recipe/Article API connection
 - [Tic-Tac-Toe Client-Server Game](https://github.com/Thinkslip/TicTacToe-ServerClient.git) - Tic-Tac-Toe game created using socket programming
 
 ### Connect with Me
