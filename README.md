@@ -1,8 +1,8 @@
-# I'm Marshall!
+# I'm Marshall
 
-I’m a student specializing in computer technology and electronics
+I’m a computer science student with particular interest in both computer technology and programming/software development.
 
-### Technologies & Tools
+### Things I Have Experience With
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
