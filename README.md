@@ -15,6 +15,7 @@ I’m a computer science student with particular interest in both computer techn
 
 ### Current Projects
 - [Tic-Tac-Toe Client-Server Game](https://github.com/Thinkslip/TicTacToe-ServerClient.git) - Tic-Tac-Toe game created using socket programming
+- [Movie Watchlist and Review Application](https://github.com/Thinkslip/Movie-App.git) - Movie Watchlist/Review App, includes frontend and backend
 
 ### Connect with Me
 [LinkedIn](https://www.linkedin.com/in/marshall-maguire/)
